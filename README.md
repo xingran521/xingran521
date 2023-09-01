@@ -132,12 +132,8 @@ width="30%">
        "ID": 0
      },
      "geometry": {
-       "type": "Polygon",
-       "coordinates": [
-         [
-             [39.9,116.4]
-         ]
-       ]
+       "type": "Point",
+       "coordinates": [39.9,116.4]
      }
    }
  ]
@@ -165,8 +161,8 @@ width="30%">
 <p align="center"> 
 <img src="https://profile-counter.glitch.me/xingran521/count.svg">  
 
-从 2023 年 9 月 1 日开始计算本部分的访问人数
-<a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+<!-- 从 2023 年 9 月 1 日开始计算本部分的访问人数
+<a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a> -->
 
 
 ## Star 历史
