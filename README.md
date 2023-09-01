@@ -132,8 +132,13 @@ width="30%">
        "ID": 0
      },
      "geometry": {
-       "type": "Point",
-       "coordinates": [39.9,116.4]
+       "type": "Polygon",
+       "coordinates": [
+         [
+             [115.7,117.4],
+             [39.4,41.6]
+         ]
+       ]
      }
    }
  ]
