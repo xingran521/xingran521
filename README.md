@@ -66,13 +66,7 @@
 <!--  2D 历史技能 -->
 <!-- <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=xingran521" width="auto"></img> -->
 
-**📫 如何联系我:**
-<p align="left">
-<!-- <a href="https://twitter.com/noname85071193" target="blank"><img align="center" src="https://raw.githubusercontent.com/xingran521/xingran521/master/assets/twitter.svg" alt="xingran521" height="30" width="30" /></a> -->
-<!-- <a href="https://linkedin.com/in/andrej-marinchenko-0445b7214" target="blank"><img align="center" src="https://raw.githubusercontent.com/xingran521/xingran521/master/assets/linkedin.svg" alt="xingran521" height="30" width="30" /></a> -->
-<a href="mailto:xingran01@qq.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/xingran521/xingran521/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
-<!-- <a href="https://api.whatsapp.com/send?phone=+375333333355" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a> -->
-</p>
+
 
 <div align="center">
 <summary>奖杯 Github 简介奖杯</summary>
@@ -190,6 +184,14 @@ width="30%">
 
 ---
 想要联系我吗?
+
+**📫 如何联系我:**
+<p align="left">
+<!-- <a href="https://twitter.com/noname85071193" target="blank"><img align="center" src="https://raw.githubusercontent.com/xingran521/xingran521/master/assets/twitter.svg" alt="xingran521" height="30" width="30" /></a> -->
+<!-- <a href="https://linkedin.com/in/andrej-marinchenko-0445b7214" target="blank"><img align="center" src="https://raw.githubusercontent.com/xingran521/xingran521/master/assets/linkedin.svg" alt="xingran521" height="30" width="30" /></a> -->
+<a href="mailto:xingran01@qq.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/xingran521/xingran521/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
+<!-- <a href="https://api.whatsapp.com/send?phone=+375333333355" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a> -->
+</p>
 
 如果你想为我的任何软件源做出贡献，请随时提交 PR、问题或给我发电子邮件。如果你想与我会面并讨论建议和想法，请选择一个时间段--但一定要说明议程
 ---
