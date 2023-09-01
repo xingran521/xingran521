@@ -185,7 +185,6 @@ width="30%">
 ---
 想要联系我吗?
 
-**📫 如何联系我:**
 <p align="left">
 <!-- <a href="https://twitter.com/noname85071193" target="blank"><img align="center" src="https://raw.githubusercontent.com/xingran521/xingran521/master/assets/twitter.svg" alt="xingran521" height="30" width="30" /></a> -->
 <!-- <a href="https://linkedin.com/in/andrej-marinchenko-0445b7214" target="blank"><img align="center" src="https://raw.githubusercontent.com/xingran521/xingran521/master/assets/linkedin.svg" alt="xingran521" height="30" width="30" /></a> -->
