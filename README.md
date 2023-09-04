@@ -31,8 +31,11 @@
 
 <!--   GitHub 活动/统计图 -->
 ### 📈 GitHub 活动/统计图:
-![xingran521's github activity graph](https://github.com/xingran521/xingran521/tree/output/GitHub-contribution-grid-snake.svg)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 <!-- 统计说明 -->
 | . | . |
 |----|----|
