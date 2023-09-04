@@ -86,7 +86,7 @@ width="30%">
      },
      "geometry": {
        "type": "Point",
-       "coordinates": [115.7,117.4]
+       "coordinates": [40.194291, 117.734474]
        
      }
    }
