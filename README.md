@@ -31,7 +31,7 @@
 
 <!--   GitHub 活动/统计图 -->
 ### 📈 GitHub 活动/统计图:
-![xingran521's github activity graph](https://raw.githubusercontent.com/xingran521/xingran521/output/GitHub-contribution-grid-snake.svg)
+![xingran521's github activity graph](https://github.com/xingran521/xingran521/tree/output/GitHub-contribution-grid-snake.svg)
 
 <!-- 统计说明 -->
 | . | . |
