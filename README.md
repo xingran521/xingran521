@@ -85,24 +85,19 @@ width="30%">
        "ID": 0
      },
      "geometry": {
-       "type": "Polygon",
-       "coordinates": [
-         [
-             [115.7,117.4],
-             [39.4,41.6]
-         ]
-       ]
+       "type": "Point",
+       "coordinates": [115.7,117.4]
      }
-   }
+   }x
  ]
 }
 
 ```
 
-#### 感谢您的访问 :heart:
+<!-- #### 感谢您的访问 :heart: -->
 
 <p align="center"> 
-<img src="https://profile-counter.glitch.me/xingran521/count.svg">  
+<!-- <img src="https://profile-counter.glitch.me/xingran521/count.svg">   -->
 
 
 ## Star 历史
@@ -112,7 +107,7 @@ width="30%">
 
 
 ### 档案访问量
-从 2023 年 9 月 1 日开始计算本部分的访客数
+从 2023 年 9 月 1 日开始计算部分的访客数
 
 ![](https://moe-counter.glitch.me/get/@xingran521.github.readme)
 </br>
