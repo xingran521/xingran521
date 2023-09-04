@@ -16,20 +16,6 @@
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 
 
-<!--   我的-短介 -->    
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Andrej+Marinchenko;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg) -->
-
-
-<!--   我的-钱包     
-### My achievements on [kaggle](https://www.kaggle.com/andrej0marinchenko):
-
-![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/competition/light)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/dataset/light)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/notebook/light)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/discussion/light)
--->
-
-
 <!--   我的-技能 -->
 
 | Property | Data |
@@ -44,8 +30,7 @@
 
 
 <!--   GitHub 活动/统计图 -->
-### 📈 GitHub Activity Graph:
-<!-- [![xingran521's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=xingran521&theme=github-compact)](https://github.com/xingran521/github-readme-activity-graph) -->
+### 📈 GitHub 活动/统计图:
 ![xingran521's github activity graph](https://raw.githubusercontent.com/xingran521/xingran521/output/github-contribution-grid-snake.svg)
 
 <!-- 统计说明 -->
@@ -53,31 +38,13 @@
 |----|----|
 | ![xingran521's github stats](https://github-readme-stats.vercel.app/api?username=xingran521&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xingran521&theme=radical&layout=compact) |
 
-<!-- 统计 -->
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=xingran521"></img> -->
-
-<!--   绿色动画简介 -->
-<!-- ![](./profile-3d-contrib/profile-green-animate.svg) -->
-
-<!--   电网蛇 -->
-<!-- ![](https://github.com/xingran521/xingran521/blob/output/github-contribution-grid-snake.svg) -->
-
-
-<!--  2D 历史技能 -->
-<!-- <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=xingran521" width="auto"></img> -->
-
-
-
 <div align="center">
-<summary>奖杯 Github 简介奖杯</summary>
+<summary>Github 奖杯简介</summary>
 </div>
 
 <p align="center"> 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xingran521" alt="xingran521" /></a>
 </p>
-
-
-
 
 <!--人工智能-->
 ```mermaid
@@ -94,7 +61,7 @@ graph TD;
 
 
 <div align="center">
-<summary>奖杯：Hackerrank 简介奖杯</summary>
+<summary>Hackerrank 奖杯简介 </summary>
 </div>
 
 <p align="center"> 
@@ -103,14 +70,6 @@ graph TD;
 width="30%">
 
 </p>
-
-
-
-<!-- <img src="/github-metrics.svg" alt="Metrics" width="100%"> -->
-
-
-
-
 
 
 <!-- 中国 - 我的家-->
@@ -140,28 +99,10 @@ width="30%">
 
 ```
 
-
-
-
-
-
-<!-- <p align="center"> 
-
-<img src="./src/credly0.png" alt="ibm" width="100%">
-<img src="./src/credly1.png" alt="ibm" width="100%">
-<img src="./src/credly2.png" alt="ibm" width="100%">
-
-</p> -->
-
-
-
 #### 感谢您的访问 :heart:
 
 <p align="center"> 
 <img src="https://profile-counter.glitch.me/xingran521/count.svg">  
-
-<!-- 从 2023 年 9 月 1 日开始计算本部分的访问人数
-<a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a> -->
 
 
 ## Star 历史
@@ -186,10 +127,7 @@ width="30%">
 想要联系我吗?
 
 <p align="left">
-<!-- <a href="https://twitter.com/noname85071193" target="blank"><img align="center" src="https://raw.githubusercontent.com/xingran521/xingran521/master/assets/twitter.svg" alt="xingran521" height="30" width="30" /></a> -->
-<!-- <a href="https://linkedin.com/in/andrej-marinchenko-0445b7214" target="blank"><img align="center" src="https://raw.githubusercontent.com/xingran521/xingran521/master/assets/linkedin.svg" alt="xingran521" height="30" width="30" /></a> -->
 <a href="mailto:xingran01@qq.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/xingran521/xingran521/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
-<!-- <a href="https://api.whatsapp.com/send?phone=+375333333355" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a> -->
 </p>
 
 如果你想为我的任何软件源做出贡献，请随时提交 PR、问题或给我发电子邮件。如果你想与我会面并讨论建议和想法，请选择一个时间段--但一定要说明议程
