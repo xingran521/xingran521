@@ -31,11 +31,13 @@
 
 <!--   GitHub 活动/统计图 -->
 ### 📈 GitHub 活动/统计图:
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xingran521/xingran521/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xingran521/xingran521/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/xingran521/xingran521/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xingran521/xingran521/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xingran521/xingran521/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/xingran521/xingran521/output/github-contribution-grid-snake.svg" />
 </picture>
+
 <!-- 统计说明 -->
 | . | . |
 |----|----|
